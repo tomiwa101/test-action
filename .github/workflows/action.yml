@@ -3,8 +3,7 @@ name: MY FIRST GITHUB ACTION
 on:
   push:
     branches:
-      - master
-        main
+      - main
 
 jobs:
   builds:
